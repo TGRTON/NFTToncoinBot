@@ -70,7 +70,7 @@ $NFTRefPercent = 20; // Referral percent<br/>
 $XAPIKey = ""; // API Key of Toncenter website<br/>
 $CryptoPayAPIToken = ""; // CryptoPay API Token<br/>
 define('TOKEN', 'XXXXX'); // Add the Bot API Token<br/>
-###########TERGO DATA################
+###########TERGO DATA################<br/>
 $user_id = 0000; // User ID at Tegro Money<br/>
 $api_key = 'XXX'; // Tegro Money API Key<br/>
 $roskassa_publickey = 'XXXX'; // Tegro Money Public Key<br/>
