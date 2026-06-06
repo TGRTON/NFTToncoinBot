@@ -1,3 +1,8 @@
+> ⚠️ **Archived — legacy / experimental, no longer maintained.**
+> Part of **TGRTON**, the historical home of the (retired) $TGR token and early Tegro experiments. For our active, maintained projects see the **[Tegro open-source org → github.com/TegroTON](https://github.com/TegroTON)** — DEX [tegro.finance](https://tegro.finance) · Payments [tegro.money](https://tegro.money).
+
+---
+
 <p align="center">
   <h3 align="center">NftToncoinBot - Telegram Bot</h3>
   <p align="center">
